@@ -1,1 +1,1 @@
-Please review the above file to see the complete SQL project!
+Please click SQLQuery1.sql to review the complete SQL project details!
